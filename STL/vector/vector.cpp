@@ -12,7 +12,6 @@ Vector elements are placed in contiguous storage so that they can be accessed an
 In vectors, data is inserted at the end.
 */
 
-
 /*
 void print(vector<int> &v)
 {

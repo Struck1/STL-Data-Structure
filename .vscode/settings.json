@@ -5,6 +5,15 @@
         "vector": "cpp",
         "list": "cpp",
         "queue": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "set": "cpp",
+        "unordered_map": "cpp",
+        "xtree": "cpp",
+        "utility": "cpp"
     }
 }
