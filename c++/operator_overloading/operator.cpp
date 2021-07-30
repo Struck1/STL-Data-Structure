@@ -122,6 +122,9 @@ public:
 
         if (thisVolume > referanceVolume)
         {
+            cout << "this volume: " << thisVolume << " "
+                 << "referance volume"
+                 << " " << referanceVolume << endl;
             return true;
         }
         else
